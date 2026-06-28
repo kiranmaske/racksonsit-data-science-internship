@@ -1,0 +1,50 @@
+#Datatypes
+
+1. int
+2. char
+3. String
+4. boolean
+5. none
+
+#Operators
+ 
+1.Arithmatic Operators
++  -  *  /  %
+
+#Assignment Operators
+
+A+=B --> A=A+B
+
+#Relational Operatort
+
+<  >  <=  >=  !=
+
+#Logical Operators
+
+AND --> &&
+OR --> ||
+Not --> !
+
+#Bitwise Operators
+
+========================
+
+0   0   0   0   0   0   0
+64  32  16  8   4   2   1
+
+
+
+#Identity Operator
+print(2 is '2')
+is
+is Not
+in --> if the value is a member of sequence
+not in -->if the value is not a member of sequence
+
+Enter three subjects marks
+check less than 35 marks then fail
+check addition of three subjects ..if addition is less than 40 the fail
+
+grade
+a  b  c  d
+
