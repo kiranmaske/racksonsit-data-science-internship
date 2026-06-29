@@ -1,0 +1,39 @@
+Q find sum of n natural numbers
+
+Data structors 
+1. list[] 
+2. Tuple()
+3. Dictionary{key:value}
+4. set:{}
+
+star patern
+
+    0   1   2   3   
+0   *
+1   *   *
+2   *   *   *
+3   *   *   *   *
+
+tasks
+
+****
+*  *
+*  *
+****
+
+*
+*   *
+*   *   *
+*   *   *   *
+*   *   *
+*   *
+*
+
+        *
+    *   *   *
+*   *   *   *   *            
+    *   *   *
+        *
+
+
+''' paragraph in string '''
