@@ -1,0 +1,30 @@
+Naive Bayes is a family of probabilistic algorithms based on Bayes' 
+Theorem, particularly suited for classification tasks. The "naive"
+assumption in Naive Bayes is that all features are independent given 
+the class label, which simplifies the
+computation but might not hold true in real-world data.
+
+unserstand the bayes theorem with example
+
+bag 1 contain 2 red and 3 black balls.bag 2 contain 4 red and 3 black balls
+1 ball is drawn at random from one of these bags and its red.find the probabilty 
+that it is drawn from bag 1.
+
+2 red & 3 black --- bag-1  =====> red ball probability 2/5
+4 red & 3 black --- bag-2  =====> red ball probability 4/7
+
+find the probability of bag 1 for red ball
+bag 1 probability : bag1 = 1/2
+bag 2 probability : bag2 = 1/2
+
+now formula is ====> given value : ball is red then find it is from bag 1
+
+formula = 1/2*2/5+1/2*4/7      q = p(bag1/r)....
+
+
+given person(flu,covid)
+P(yes|flu,covid) = P(flu|yes)*P(covid|yes)*P(yes) = 4/7 X 3/7 X 7/10 = 12/70 = 0.17
+P(no|flu,covid) = P(flu|no)*P(covid|no)*P(no) = 2/3 X 2/3 X 3/10 = 4/30 = 0.13
+
+then we can say if flU AND covid then fever is yes.
+
